@@ -24,4 +24,4 @@ Ce projet utilise des capteurs de gaz et de particules connectés à un microcon
 Saynbe Mo
 
 ## Licence
-© 2024 Saynbe Mo. Tous droits réservés. Ce code peut être utilisé par Orange Cameroun pour des projets de surveillance de la qualité de l'air.
+© 2024 Saynbe Mo. Tous droits réservés. Ce code peut être utilisé par Orange Cameroun.
